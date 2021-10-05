@@ -1,0 +1,7 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.DS.Store  ## in class / *: additionally added
+*.csv       ## in class
+econ_lecture.Rprog
